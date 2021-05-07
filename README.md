@@ -3,7 +3,7 @@ Nattoreum Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/nattoreum-project/nattoreum.svg?branch=master)](https://travis-ci.org/nattoreum-project/nattoreum)
 
-https://nattoreum.org
+https://nattoreum.io
 
 What is Nattoreum?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Nattoreum Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Nattoreum Core software, see [https://nattoreum.org](https://nattoreum.org).
+the Nattoreum Core software, see [https://nattoreum.io](https://nattoreum.io).
 
 License
 -------
